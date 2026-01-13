@@ -12,7 +12,8 @@
                 "degree": "schema:Text",
                 "degreeSubject": "schema:Text",
                 "certifyingInstitute": "schema:Text",
-                "graduationDate": "schema:Text"
+                "graduationDate": "schema:Text",
+                "grade":"schema:Text"
             }
         }
     }
