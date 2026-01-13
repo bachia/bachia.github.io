@@ -13,7 +13,9 @@
                 "degreeSubject": "schema:Text",
                 "certifyingInstitute": "schema:Text",
                 "graduationDate": "schema:Text",
-                "grade":"schema:Text"
+                "grade":"schema:Text",
+                "cumulativeGradePointAverage": "schema:Text",
+                "studentName": "schema:Text"
             }
         }
     }
