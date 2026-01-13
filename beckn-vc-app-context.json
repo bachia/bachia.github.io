@@ -16,7 +16,8 @@
                 "graduationDate": "schema:Text",
                 "grade":"schema:Text",
                 "cumulativeGradePointAverage": "schema:Text",
-                "studentName": "schema:Text"
+                "studentName": "schema:Text",
+                "studentId": "schema:Text"
             }
         }
     }
