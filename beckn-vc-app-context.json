@@ -14,7 +14,7 @@
                 "certifyingInstitute": "schema:Text",
                 "evaluatingInstitute": "schema:Text",
                 "graduationDate": "schema:Text",
-                "grade":"schema:Text",
+                "grade":"schema:Number",
                 "cumulativeGradePointAverage": "schema:Text",
                 "studentName": "schema:Text",
                 "studentId": "schema:Text"
